@@ -5,11 +5,11 @@
 			./bashScript.sh
 
 
-<img src="./images/img0.jpg" alt="docker" title="Headers">
+<img src="./images/img0.JPG" alt="docker" title="Headers">
 
-<img src="./images/img1.jpg" alt="docker" title="Headers">
+<img src="./images/img1.JPG" alt="docker" title="Headers">
 
-<img src="./images/img2.jpg" alt="docker" title="Headers">
+<img src="./images/img2.JPG" alt="docker" title="Headers">
 
 Сборка всех текущих версий образов может быть выполнена одним bash-скриптом, в котором будут собираться образы из Dockerfile.
 
